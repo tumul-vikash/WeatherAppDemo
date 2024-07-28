@@ -1,0 +1,7 @@
+const types = {
+  GET_CURRENT_LOCATION: 'GET_CURRENT_LOCATION',
+  GET_CITY_DETAILS: 'GET_CITY_DETAILS',
+  GET_WEATHER_DATA: 'GET_WEATHER_DATA',
+};
+
+export default types;
